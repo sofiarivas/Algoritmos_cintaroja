@@ -1,9 +1,9 @@
 # -*- coding: utf8 -*-
-#Recibo una lista de números.
+
 lista_num = [0,2,1,7,0,8,5,78,9,12,33]
 
 def quick_sort(lista_num):
-	#Listas donde se agregan los numeros mayores, menores e iguales.
+
 	minimos = []
 	maximos = []
 	iguales_pivots = []
